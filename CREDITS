@@ -1,24 +1,17 @@
 
- EaglercraftX Developers
+ EaglercraftY Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
 
- lax1dude:
+ Luisfierro01:
  
-  - Creator of Eaglercraft
+  - Creator of EaglercraftY
   - Wrote HW accelerated OpenGL 1.3 emulator
   - Wrote all desktop emulation code
   - Ported the Minecraft 1.8 client src to TeaVM
   - Wrote EaglercraftXBungee
   - Wrote the patch and build system
  
- ayunami2000:
  
-  - Many bug fixes
-  - Added resource packs
-  - Added screen recording
-  - Added seamless fullscreen
-  - Created the replit
-
 
 
  Code used within EaglercraftX

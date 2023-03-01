@@ -11,12 +11,12 @@
 		},
 		{
 			"minecraft/sounds/records/*": {
-				"action": "exclude"
+				"action": "encode"
 			}
 		},
 		{
 			"minecraft/sounds/music/*": {
-				"action": "exclude"
+				"action": "encode"
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 		},
 		{
 			"minecraft/icons/minecraft.icns": {
-				"action": "exclude"
+				"action": "encode"
 			}
 		},
 		{

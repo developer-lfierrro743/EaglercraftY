@@ -1,0 +1,28 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To run build_init, place the following files in this directory:
+
+ - 'mcp928.zip' (mod coder pack for minecraft 1.9.4)
+ - '1.9.4.jar` (jar file for minecraft 1.9.4)
+ - '1.9.json' (assets index for minecraft 1.9)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Notes on assetsIndexTransformer.json:
+
+Recommended allowed samples:
+ - 16000
+ - 22050
+ - 32000
+ - 44100
+ - 48000
+
+Recommended allowed bitrates:
+ - 48
+ - 64
+ - 80
+ - 96
+ - 112
+ - 128
