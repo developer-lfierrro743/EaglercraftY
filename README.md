@@ -2,9 +2,9 @@
 (PLEASE DONT SUE ME Mojang/MICROSOFT!)
 AND PLEASE DONT PUT THIS (DMCA)
 
-Planned Release date:March 20th
+Planned Release date: Not Avaliable currently
 
-This project wil have the official Code of minecraft  1.9.4 and this respository will be updated
+This project wil have the official Code of minecraft  1.20 and this respository will be updated
 (rip-off of 1.8.8 code)
 # EaglercraftY?
 
@@ -28,8 +28,8 @@ Eaglercraft is real Minecraft 1.9 that you can play in any regular web browser. 
 
 ### If replit is acceptable, you can use this:
 
-### (there heres replit for 1.9 version)
-https://replit.com/@luisfierro01/EaglercraftY
+### (there heres replit for 1.20 version)
+Not Yet Available
 
 ### Manual setup instructions:
 (COMING SOON)
